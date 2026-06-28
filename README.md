@@ -1,4 +1,4 @@
-# Checkit Analytics: Earnings Intelligence
+# Earnings Intelligence
 
 A RAG (Retrieval-Augmented Generation) system for querying SEC filings and earnings reports across 20 major public companies. Ask natural language questions about revenue, margins, guidance, risk factors, and financial trends to get analyst-quality answers grounded in source documents.
 
@@ -6,7 +6,7 @@ A RAG (Retrieval-Augmented Generation) system for querying SEC filings and earni
 
 ## Overview
 
-Checkit Analytics ingests 700+ SEC filings (8-K, 10-K, 10-Q) spanning 2020-2026 and makes them searchable through a conversational interface. The system retrieves the most relevant document chunks, reranks them, and generates structured financial analysis using a large language model.
+Earnings Intelligence ingests 700+ SEC filings (8-K, 10-K, 10-Q) spanning 2020-2026 and makes them searchable through a conversational interface. The system retrieves the most relevant document chunks, reranks them, and generates structured financial analysis using a large language model.
 
 ---
 
